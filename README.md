@@ -9,8 +9,8 @@ I'm **Rahad**, a Web Application Developer from 🇧🇩 Bangladesh and a passio
 
 ### 🌐 Connect with me:
 <p>
-  <a href="[https://facebook.com/yourprofile](https://www.facebook.com/rahad.mondal.2024/)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-a-rahad-mondal-008307305/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/rahad.mondal.2024/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-a-rahad-mondal-008307305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rahadmondal165@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
