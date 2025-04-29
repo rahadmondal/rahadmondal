@@ -45,10 +45,15 @@ I'm **Rahad**, a Web Application Developer from <img src="assets/bangladesh.png"
 
 ### 📊 GitHub Stats:
 
- <p align="center">
+<div align="center">
+ <div>
    <img src="https://github-readme-stats.vercel.app/api?username=rahad2004&show_icons=true&theme=radical" alt="rahad2004 github stats" />
- </p>
- 
- <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahad2004&theme=radical" alt="rahad2004 streak" />
- </p>
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img style="flex:1" src="https://github-readme-streak-stats.herokuapp.com/?user=rahad2004&theme=radical" alt="rahad2004 streak" />
+     <img  style="height:195px; flex:1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahad2004&layout=compact&theme=radical" alt="rahad2004 most used languages" />
+  </div>
+</div>
+
+
