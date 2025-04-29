@@ -1,9 +1,9 @@
 <!-- Banner Image -->
-<img src="https://your-custom-banner-link.com/banner.png" alt="Rahad Banner" style="width:100%;"/>
+<img src="https://your-custom-banner-link.com/banner.png "  alt="Rahad Banner" style="width:100%;"/>
 
-<h1 align="center">Hi there my awesome friend <img src="assets/hello.gif" > </h1>
+<h1 align="center">Hi there my awesome friend <img src="assets/hello.gif" width="28px" alt="hi" > </h1>
 
-I'm **Rahad**, a Web Application Developer from <img src="assets/bangladesh.png" > Bangladesh and a passionate learner. I spend most of my time building cool projects and learning new technologies.
+I'm **Rahad**, a Web Application Developer from <img src="assets/bangladesh.png" width="28px" alt="BD" > Bangladesh and a passionate learner. I spend most of my time building cool projects and learning new technologies.
 
 ---
 
