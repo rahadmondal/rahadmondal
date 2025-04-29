@@ -1,13 +1,14 @@
 <!-- Banner Image -->
 <img src="https://your-custom-banner-link.com/banner.png" alt="Rahad Banner" style="width:100%;"/>
 
-<h1 align="center">Hi there my awesome friend 👋</h1>
+<h1 align="center">Hi there my awesome friend <img src="assets/hello.gif" > </h1>
 
-I'm **Rahad**, a Web Application Developer from 🇧🇩 Bangladesh and a passionate learner. I spend most of my time building cool projects and learning new technologies.
+I'm **Rahad**, a Web Application Developer from <img src="assets/bangladesh.png" > Bangladesh and a passionate learner. I spend most of my time building cool projects and learning new technologies.
 
 ---
 
 ### 🌐 Connect with me:
+
 <p>
   <a href="https://www.facebook.com/rahad.mondal.2024/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/md-a-rahad-mondal-008307305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,15 +18,17 @@ I'm **Rahad**, a Web Application Developer from 🇧🇩 Bangladesh and a passio
 ---
 
 ### ❤️ What I love:
+
 - 🚀 I enjoy programming and building user-friendly web apps.
 - 🧠 Most used code: `console.log("Hello World")`
 - 🎯 I love collaborating on meaningful open-source projects.
-- 📫 Email me at: **rahadmondal165@gmail.com** 
+- 📫 Email me at: **rahadmondal165@gmail.com**
 - 🎉 Fun fact: I drink more tea than coffee!
 
 ---
 
 ### 🛠️ Things I code with:
+
 <p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -40,10 +43,12 @@ I'm **Rahad**, a Web Application Developer from 🇧🇩 Bangladesh and a passio
 
 ---
 
-### 📚 Tutorials I Follow:
-<p>
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+### 📊 GitHub Stats:
+
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=rahad2004&show_icons=true&theme=radical" alt="rahad2004 github stats" />
+ </p>
+ 
+ <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahad2004&theme=radical" alt="rahad2004 streak" />
+ </p>
